@@ -15,7 +15,7 @@ environment you are running this script in.
 def main():
 
     #read csv file
-    data = pd.read_csv('ee_coding_challenge_dataset.csv')
+    data = pd.read_csv('meter_readings.csv')
     df = pd.DataFrame(data)
 
     #create DatTimeIndex
