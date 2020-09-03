@@ -1,5 +1,5 @@
 
-"""Script to filter meter readings contained in 'ee_coding_challenge_dataset.csv'
+"""Script to filter meter readings contained in 'meter_readings.csv'
 
 This script allows the user to meter readings by meter_id, month and year based on user inputs into the console.
 
