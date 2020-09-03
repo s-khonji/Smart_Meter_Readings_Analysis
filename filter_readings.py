@@ -15,7 +15,7 @@ functions:
 
     * clean_consumption_data
     * filter_meter_data
-    * Filter_month
+    * filter_month
     * filter_year
     * main - the main function of the script
 """
@@ -25,7 +25,7 @@ import numpy as np
 
 def main():
     
-    data = pd.read_csv('ee_coding_challenge_dataset.csv')
+    data = pd.read_csv('meter_readings.csv')
     df = pd.DataFrame(data)
     
     df = clean_consumption_data(df)
