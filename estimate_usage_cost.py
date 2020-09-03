@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 """Script to estimate monthly electricity usage costs for each household (meter_id), for 
-meter readings contained in 'ee_coding_challenge_dataset.csv'.
+meter readings contained in 'meter_readings.csv'.
 
 The output of the script is a printed table showing the estimated costs.
 
