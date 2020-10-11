@@ -1,7 +1,7 @@
 
 """Script to filter meter readings contained in 'meter_readings.csv'
 
-This script allows the user to meter readings by meter_id, month and year based on user inputs into the console.
+This script allows the user to filter meter readings by meter_id, month and year based on user inputs into the console.
 
 Example of inputting months for February (2nd month), April (4th month) and May (5th month) would be: 2,4,5
 
